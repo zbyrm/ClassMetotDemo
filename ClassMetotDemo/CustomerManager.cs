@@ -56,5 +56,7 @@ namespace ClassMetotDemo
             customers.Remove(customer);
             Console.WriteLine("Customer Deleted : {0} {1} ", customer.FirstName, customer.LastName);
         }
+
+
     }
 }
